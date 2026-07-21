@@ -126,4 +126,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
+  <url>
+    <loc>https://jamsil-pub-tip.pbn-builder.xyz/posts/gemini-coverage-20260721-0042.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://jamsil-pub-tip.pbn-builder.xyz/posts/gemini-coverage-20260721-0043.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
